@@ -95,4 +95,4 @@ catalogo-videojuegos/
 
 ## Autor
 
-David Aguilar
+David Moises Contreras Aguilar
